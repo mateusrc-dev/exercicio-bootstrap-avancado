@@ -4,4 +4,4 @@
 
 # deploy
 
-✔️ https://vercel.com/mateusrc-dev/exercicio-bootstrap-avancado
+✔️ https://exercicio-bootstrap-avancado-tau.vercel.app/
